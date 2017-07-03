@@ -1,3 +1,4 @@
 {
+    "paper_folder": "Name of the folder to make for the paper.",
     "paper_logname": "Short description of paper, no spaces (like \"many-happy-languages\")."
 }
